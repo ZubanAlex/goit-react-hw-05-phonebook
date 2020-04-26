@@ -1,0 +1,21 @@
+.searchContainer {
+  box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.5);
+  width: 400px;
+  padding: 10px 10px 10px 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.input {
+  width: 344px;
+  display: block;
+  padding: 3px 0 3px 10px;
+  line-height: 30px;
+  border-radius: 4px;
+  border-color: rgba(0, 0, 0, 0.26);
+}
